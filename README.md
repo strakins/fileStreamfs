@@ -3,7 +3,7 @@
 
 ##
 
-    - Question 1 is explained below on the README.md fike
+    - Question 1 is explained below on the README.md file
     - Question 2 code is embeded in scripts.js
     - Question 3 code is embeded in fileBackUp.js, with intial data in content and results in Update
         - To test Question 3 Please delete all files within updates directory
